@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: August 7, 2019 11:58 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.18
+WORDPRESS:	5.2.2
+PHP INFO:	7.2.14 | SAPI: apache2handler
+SERVER:		Apache/2.4.37 (Win64) PHP/7.2.14 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 4MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:16 | filtered:0 | create:16
+FILTERED: []
+SQL CREATED: 20190807_honighaustroisdorf_d66392fb573f890a3826_20190807115803_database.sql
+SQL FILE SIZE: 256.04KB (262186)
+SQL FILE TIME: 2019-08-07 11:58:51
+SQL RUNTIME: 1.00 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/test
+ARCHIVE FILE: 20190807_honighaustroisdorf_d66392fb573f890a3826_20190807115803_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	77.04MB
+STATS:	Dirs 583 | Files 4,221
+SQL ADDED: 20190807_honighaustroisdorf_d66392fb573f890a3826_20190807115803_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4804
+    [filename] => C:\wamp64\www\test\wp-snapshots\tmp\20190807_honighaustroisdorf_d66392fb573f890a3826_20190807115803_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4803
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 30.94MB
+ARCHIVE RUNTIME: 9.37 sec.
+MEMORY STACK: 6MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/wamp64/www/test/wp-snapshots/tmp/20190807_honighaustroisdorf_d66392fb573f890a3826_20190807115803_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 256.04KB
+INSTALLER FILE: 59.38KB
+ARCHIVE FILE: 32.26MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,804
+ACTUAL FILE/DIRECTORY COUNT: 4,803
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 11.43 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => 20190807_honighaustroisdorf August 7, 2019 11:59 am
+

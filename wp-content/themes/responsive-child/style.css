@@ -1,0 +1,53 @@
+/*
+Theme Name: Responsive Child Theme
+Theme URI: http://cyberchimps.com/guide/child-theme-example/
+Description: Responsive Child Theme
+Template: responsive
+Version: 1.0.0
+Author: CyberChimps
+Author URI: https://cyberchimps.com/
+License: GNU General Public License
+License URI: license.txt
+*/
+
+@import url("https://fonts.googleapis.com/css?family=Satisfy");
+
+#header {
+  background-image: url("http://localhost/test/wp-content/uploads/2019/01/honigwabe_transparent.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.site-name {
+  font-family: "Satisfy", cursive;
+  font-size: 4rem;
+}
+
+.site-description {
+  font-size: 1.5rem;
+  color: #5f473a;
+}
+
+.featured-title {
+  font-family: "Satisfy", cursive;
+  font-size: 3rem;
+}
+
+.featured-subtitle {
+  font-size: 1.5rem;
+}
+
+@media screen and (min-width: 981px) {
+  .menu {
+    text-align: center;
+  }
+  .menu li {
+    display: inline-block;
+    float: none;
+    margin-left: -5px;
+  }
+  .menu li li {
+    display: block;
+    text-align: left;
+  }
+}
